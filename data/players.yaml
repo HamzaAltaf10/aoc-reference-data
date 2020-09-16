@@ -2074,6 +2074,17 @@
       - '123158445'
     de:
       - '2135484'
+ - name: Hamza Altaf
+  country: pk
+  twitch: https://www.twitch.tv/ldrago101
+  platforms:
+    voobly:
+      - '123283665'
+      - '124053619'
+      - '124487153'
+    de:
+      - '214031'
+      - '3094247'
 - name: ashleylynn
   country: us
   twitch: https://www.twitch.tv/aoc_ashleylynn
@@ -2325,12 +2336,3 @@
       - '3379989'
     voobly:
       - '123911641'
-- name: Chocobo
-  country: jp
-  platforms:
-    de:
-      - '1584462'
-      - '3296370'
-    voobly:
-      - '123742000'
-      - '123166866'
